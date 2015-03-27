@@ -13,3 +13,7 @@ cmd in mongo
 #### show collections
 
 查看当前数据库所有的 collection
+
+#### db.printCollectionStats()
+
+查看当前数据库所有的 collection 的状态
