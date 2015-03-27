@@ -17,3 +17,9 @@ cmd in mongo
 #### db.printCollectionStats()
 
 查看当前数据库所有的 collection 的状态
+
+
+
+#### exit
+
+退出 shell
