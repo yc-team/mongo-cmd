@@ -31,3 +31,5 @@ cmd in mongo
 
 
 * [Getting Started with the mongo Shell](http://docs.mongodb.org/v2.2/tutorial/getting-started-with-the-mongo-shell/)
+* [Install MongoDB on Linux Systems](http://docs.mongodb.org/v2.2/tutorial/install-mongodb-on-linux/)
+* [Install MongoDB on OS X](http://docs.mongodb.org/v2.2/tutorial/install-mongodb-on-os-x/)
